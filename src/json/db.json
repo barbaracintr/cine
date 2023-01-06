@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "titulo": "O Hobbit: A Batalha dos Cinco Exércitos",
+        "capa": "https://upload.wikimedia.org/wikipedia/pt/0/0e/The_Hobbit_-_The_Battle_of_the_Five_Armies.jpg",
+        "link": "https://www.youtube.com/embed/VKkFW5TTB6g"
+    },
+    {
+        "id": 2,
+        "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+        "capa": "https://br.web.img3.acsta.net/medias/nmedia/18/92/91/32/20224832.jpg",
+        "link": "https://www.youtube.com/embed/Xy3nzSMZ4-M"
+    },
+    {
+        "id": 3,
+        "titulo": "O Rei Leão 3: Hakuna Matata",
+        "capa": "https://media.fstatic.com/rSRP7WBVpeKlhDb1gdpTs7KPcg4=/210x312/smart/filters:format(webp)/media/movies/covers/2010/08/50a45ce686f1898bbfed6734ddc5cafd.jpg",
+        "link": "https://www.youtube.com/embed/XrWfmdnMEQg"
+    },
+    {
+        "id": 4,
+        "titulo": "Kick-Ass",
+        "capa": "https://br.web.img2.acsta.net/medias/nmedia/18/87/90/51/19962750.jpg",
+        "link": "https://www.youtube.com/embed/5rdccGkj54s"
+    }
+]
